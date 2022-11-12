@@ -41,6 +41,9 @@ state_plot
 ```{r echo=FALSE}
 jail_by_race_chart
 ```
+  
+  
+  
   When creating this chart, I wanted to answer the question, "how does the incarceration population of Black Americans compare to that of White Americans?" and thus created a scatterplot to compare the population of both groups in jail. I can see that the population of Black Americans in jail is much more varied and reaches a greater extent than that of White Americans, which is quite shocking given the population gap between the two races. Thus, it can be interpreted that White Americans tend to get incarcerated at very minimal rates which Black Americans tend to get incarcerated at a greater variety of rates and tend to have a larger incarcerated population than White Americans (for example, when there are ~10000 incarcerated Black Americans, there are only ~2000 incarcerated White Americans, which is a big discrepancy given their population differences that can be explained by addressing institutional racism).
   
 ## Visualizing the Average Percentage of Incarcerated Black Citizens Across the Entire Country
