@@ -28,6 +28,9 @@ Throughout this project, we will be comparing the incarceration of Black men wit
 source("~/Documents/info201/assignments/a4-juliakharchenko/source/analysis.R")
 total_us_prison_pop_chart
 ```
+  
+  
+  
   When creating this visualization, I wanted to answer the question, "How has the population of incarcerated individuals across America grown since 1970?" Throughout this chart, we can see that from the 1970s-1980s, the population of incarcerated individuals in America was relatively steady at less than 200,000 individuals and even on a slight decline at times. However, since the 1980s, the population of incarcerated individuals in America has seemingly skyrocketed up until the 2010s, where it has slowly been leveling off/slightly decreasing; some policies that contribute to further oppression may have been at play in the 1980s. Yet it still begs the questions, what is contributing to the growing incarceration rate in the United States, and is this trend common within every state in the U.S.?
 
 
@@ -35,6 +38,9 @@ total_us_prison_pop_chart
 ```{r echo=FALSE}
 state_plot
 ```
+  
+  
+  
   When creating this chart, I wanted to answer the question, "How has the population of incarcerated individuals in certain politically-divided states grown since 1970?" It seems that in Florida, the prison population has seen a massive increase in growth that is only now starting to drop off while in New York, the prison population steadily increased up until the early 2000s before dropping off; the jail populations of Colorado, Oregon, and Washington all appear quite similar and have only been slowly increasing which can also be attributed to an overall growth in population. I chose to analyze Florida because Florida is a relatively conservative state with a large population (especially a large population of minority groups) and I chose to analyze New York to contrast it with Florida, since it is a relatively liberal state with a large population; political leanings of each state may contribute to the increases of jail populations. I chose Washington, Oregon, and Colorado to analyze because they are all states that are relatively politically-diverse (with sections of each state split between two very different political parties) to determine whether an increase in the jail population across states may be apolitical. This begs the question, to what effect do politics within each state impact the increases of their jail population?
 
 ## Comparing Incarceration Populations Across Racial Backgrounds
@@ -50,4 +56,7 @@ jail_by_race_chart
 ```{r echo=FALSE}
 america
 ```
+  
+  
+  
   When creating this visualization, I wanted to answer the question, "How does the average percentage of Black citizens who are incarerated within a state vary between each state?" Throughout this map, I can see that there are many areas that are associated with more conservative ideas that have high amounts of Black citizens who are incarcerated (compared to the total population of Black citizens within that state), such as Kentucky and Missouri. On the East and West coast, the percentage of Black citizens who are incarcerated tends to be lower than in the South and middle of America. Utah's value really stands out, with ~17% of its Black population incarcerated; this tells me that there are some deep systemic concerns in Utah that must be addressed, and that there are likely racist policies in place in Utah. It is shocking just how many Black citizens are detained within America, and tells me that this issue, while it may be more pressing in some regions of the country than others, must be addressed by dismantling oppressive systems that exist within the American legal system.
