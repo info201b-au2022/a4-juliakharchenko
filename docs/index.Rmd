@@ -13,26 +13,6 @@ source("../source/analysis.R")
 ## Abstract 
 Throughout this project, we will be comparing the incarceration of Black men with the incarceration of men from other races, attempting to demonstrate the structural oppression that Black men face within the American legal system.
 
-# Test (TODO: Remove before submission!!)
-```{r echo=FALSE}
-q1_string <- test_query1()
-num <- 5
-```
-As you know, this is a markdown report. The [R Markdown Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) is **useful!**
-
-* Here's a test of a dynamic variable. Say **"`r q1_string`!!!** 
-* Here's another test. A vector
-of numbers: `r test_query2(num)`.
-
-Recall that _{r echo=TRUE}_ can be used to display the code, 
-which is very useful when developing and debugging a report. Here's an example: 
-
-```{r echo=TRUE}
-num <- 5
-sum <- sum(test_query2(num))
-print(sum)
-```
-
 ## Introduction 
   After the end of slavery and segregation across the United States and the passage of the Civil Rights Act, many believe that structural racism in America is long gone. However, this couldn't be farther from the truth - the current incarceration system within the United States was built off of racism and continues to carry its tenets to the modern day, disproportionately impacting Black men and furthering institutional racism across the nation. While many do not believe this, they have not had the facts of racial discrimination presented to them clearly - which is exactly what this project will do. We will be attempting to answer the question, "How does the incarceration of Black men vary from the incarceration of other races across the United States, both in the current day and historically?" 
   By answering this question and undergoing this project, we will be directly impacting those who are incarcerated or at risk of being incarcerated, primarily Black men in America (direct stakeholders), by presenting the facts of their incarceration so we can truly show the injustice. Our indirect stakeholders will be ordinary Americans, especially those currently holding some form of responsibility in the legal system, so that we can present the true facts of racism to them and inspire them to make change within the American legal/incarceration system.
